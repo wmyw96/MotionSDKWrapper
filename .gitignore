@@ -125,6 +125,11 @@ AutoTest.Net/
 # Installshield output folder
 [Ee]xpress/
 
+
+# User 
+*.lic
+*.model
+stmotion_api.dll
 # DocProject is a documentation generator add-in
 DocProject/buildhelp/
 DocProject/Help/*.HxT
